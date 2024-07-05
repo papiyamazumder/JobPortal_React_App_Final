@@ -1,0 +1,15 @@
+.sidebar{
+    width:15%;
+    position: absolute;
+    height: 100%;
+    z-index: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.filter{
+    width:14rem;
+    box-decoration-break: clone;
+}
+

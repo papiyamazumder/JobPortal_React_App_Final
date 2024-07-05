@@ -1,0 +1,73 @@
+.display-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+   
+  }
+  
+  .display-card {
+    margin-bottom: 20px;
+    border: 1px solid #c1bfc6;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .display-card-body {
+    padding: 10px;
+  }
+  
+  .display-card-title {
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin-bottom: 10px;
+  }
+  
+  .display-card-text {
+    margin-bottom: 5px;
+  }
+  
+  .button-edit-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .button-display-container {
+    display: flex;
+    gap: 600px; 
+    
+}
+.edit-btn{
+  padding: 10px 20px; 
+ background-color:  #9bbd9b;
+ border-radius: 5px;
+  cursor: pointer; 
+  border: none;
+}
+.apply-btn{
+  padding: 10px 20px; 
+  background-color: #007bff; 
+  border-radius: 5px;
+  cursor: pointer; 
+  border: none;
+}
+
+
+
+.edit-btn:hover {
+  background-color: #0056b3; 
+}
+.apply-btn:hover {
+  background-color: #0056b3; 
+}
+  .profile-image {
+    width: 150px; /* Adjust size as needed */
+    height: 150px; /* Maintain aspect ratio */
+    border-radius: 60%; /* Make it circular */
+    object-fit: contain; /* Maintain aspect ratio and cover container */
+    border: 2px solid #ccc; /* Optional: Add a border */
+  }
+
+  
+ 
+  

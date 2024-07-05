@@ -1,0 +1,96 @@
+.display-jobs-container {
+    padding-top: 30px; /* Ensure content starts below the navbar */
+    padding-left: 250px;
+    overflow-y: auto;
+}
+
+.job-list {
+    padding: 20px;
+    margin: 0 auto; /* Center content horizontally */
+    max-width: 1200px; /* Adjust max-width as needed */
+    overflow-y: auto; /* Enable scrolling within the form */
+    max-height: calc(100vh - 100px); 
+}
+
+.company-item {
+    display: flex;
+    align-items: center;
+    background-color: #ffffff; /* Background color */
+    border: 1px solid #e0e0e0; /* Border color */
+    border-radius: 8px; /* Rounded edges */
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow */
+  }
+  
+  .company-logo img {
+    width: 80px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .company-details {
+    flex: 1; /* Takes remaining space */
+  }
+  
+  .job-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .job-location-type {
+    font-size: 1rem;
+    color: #666;
+    display: flex; /* Ensure inline display */
+    align-items: center; /* Center vertically */
+    margin-bottom: 8px; /* Add margin bottom */
+  }
+  
+  .job-location-type span {
+    margin-right: 8px; /* Adjusted margin between icon and text */
+  }
+  
+  .badge-pill {
+    margin-left: 8px; /* Adjust margin between location and badge */
+  }
+  .posted-time {
+    font-size: 14px; /* Adjust font size as needed */
+    color: #6c757d; /* Text color */
+    margin-top: 8px; /* Adjust spacing as needed */
+}
+  
+.company-actions {
+    display: flex;
+    align-items: center; /* Center items vertically */
+}
+
+.edit-button,
+.delete-button {
+    background-color: transparent;
+    color: #007bff;
+    border: 2px solid #007bff;
+    border-radius: 20px; /* Rounded edges */
+    padding: 8px 16px; /* Adjusted padding */
+    text-decoration: none;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+    margin-right: 8px; /* Adjusted margin */
+}
+
+.delete-button {
+    color: #dc3545;
+    border-color: #dc3545;
+}
+
+.edit-button:hover,
+.delete-button:hover {
+    background-color: #007bff;
+    color: white;
+    transform: translateY(-2px); /* Lifts the button a bit */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a slight shadow */
+}
+
+.delete-button:hover {
+    background-color: #dc3545;
+}

@@ -1,0 +1,11 @@
+.card-container{
+    display: flex;
+    margin-left: 20rem;
+    margin-top: 2rem;
+    z-index: -2;
+}
+
+/* .jobs{
+    background-color: rgb(163, 210, 242);
+} */
+

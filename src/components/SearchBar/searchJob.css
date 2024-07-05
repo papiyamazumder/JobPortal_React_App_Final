@@ -1,0 +1,11 @@
+.Searchbar{
+    width: 75%;
+    height: 35px;
+    border-radius: 15px; /* Adjust the radius as needed */
+    border: 1px solid #000;
+    padding: 5px 5px 5px 25px; /* Add padding for text */
+
+}
+.Searchbar::placeholder {
+    font-size: 20px; /* Set the placeholder font size */
+}

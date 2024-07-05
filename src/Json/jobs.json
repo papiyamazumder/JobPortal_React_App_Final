@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "company": "Infosys Limited",
+    "location": "Bangalore, India",
+    "description": "Join Infosys Limited as a Software Engineer in Bangalore.",
+    "requirements": "Eligibility: Bachelor's degree in Computer Science, 2+ years of software development experience",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Marketing Manager",
+    "company": "Tata Consultancy Services (TCS)",
+    "location": "Mumbai, India",
+    "description": "Seeking a Marketing Manager at Tata Consultancy Services in Mumbai.",
+    "requirements": "Eligibility: Bachelor's degree in Marketing, 5+ years of marketing management experience",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Data Scientist",
+    "company": "Wipro Limited",
+    "location": "Pune, India",
+    "description": "Wipro Limited is hiring a Data Scientist in Pune.",
+    "requirements": "Eligibility: Master's degree in Computer Science or related field, 3+ years of experience in data science",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Financial Analyst",
+    "company": "Accenture India",
+    "location": "Hyderabad, India",
+    "description": "Accenture India seeks a Financial Analyst in Hyderabad.",
+    "requirements": "Eligibility: Bachelor's degree in Finance or related field, 2+ years of financial analysis experience",
+    "featured": false
+  }
+]

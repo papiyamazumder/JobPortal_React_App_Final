@@ -1,0 +1,61 @@
+.logo {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: contain;
+  background-color: whitesmoke;
+}
+
+.job-card-description {
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.job-title-name {
+  margin-left: 200px; /* Adjust the value as needed */
+}
+
+.job-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+
+.job-company {
+  font-size: 16px;
+  justify-content: center;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between; /* Adjusted to space-between */
+  margin-top: 20px; /* Add margin as needed */
+  width: 800px; /* Ensure the width matches the card */
+  margin: 20px auto; /* Center the button container */
+}
+
+.back-button {
+  margin-left: 0;
+}
+
+.apply-button {
+  margin-left: auto;
+  background-color: #007bff; 
+  border-color: #007bff;
+}
+
+.skill-badge {
+  margin-right: 10px;
+  background-color: rgb(62, 113, 80) !important;
+}
+.skill-badge-a {
+  background-color: rgb(62, 113, 80) !important;
+}
+
+.box-badge-color {
+  background-color: #0E6EFD !important;
+}

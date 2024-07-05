@@ -1,0 +1,352 @@
+{
+  "applications": [
+    {
+      "id": "6941",
+      "companyEmail": "admin@gmail.com",
+      "jobId": "1",
+      "userEmail": "riki@gmail.com",
+      "userProfileData": {
+        "id": "d592",
+        "basicDetails": {
+          "profilePhoto": {},
+          "fullname": "Riki",
+          "gender": "Female",
+          "email": "riki@gmail.com",
+          "address": "2258,shettikere,durgakeri,honnavara",
+          "city": "Honnavar",
+          "state": "Karnataka",
+          "mobileNumber": "0843195526",
+          "previewUrl": "blob:http://localhost:3000/e94d2a6b-5157-4579-a685-9fc5f7a6fb19"
+        },
+        "educationDetails": {
+          "coursename": "B.Tech/B.E",
+          "specialization": "Information Science and Engineering",
+          "collegename": "Dayananda Sagar College of Engineering",
+          "cgpa": "9",
+          "previewUrl": null
+        },
+        "skills": {
+          "skills": "C, Java, C#, React",
+          "previewUrl": null
+        },
+        "projects": {
+          "projectname": "",
+          "projectdetails": "",
+          "projectskills": "",
+          "projecturl": ""
+        },
+        "certifications": {
+          "certificationname": "",
+          "certificateurl": "",
+          "certificatefile": null,
+          "certificateFileName": "",
+          "certificatePreviewUrl": null
+        },
+        "experience": {
+          "companyname": "",
+          "designation": "",
+          "totalExperienceMonths": "",
+          "totalExperienceYears": "",
+          "workdescription": "",
+          "typeofexperience": ""
+        },
+        "resume": {
+          "resumeFile": {},
+          "resumeFileName": "Riki_Naik_Resume.pdf",
+          "resumePreviewUrl": "blob:http://localhost:3000/fdaa431a-47db-4a78-9930-603474b94f0b"
+        }
+      }
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "logo": "https://th.bing.com/th?id=OIP.8Z6IGuYWmPhGL9bs3MujlAHaBx&w=349&h=83&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "name": "Aerocraft Aviation",
+      "title": "Full-stack Developer",
+      "location": "Bengaluru,Pune",
+      "modeOfWork": "Remote",
+      "jobType": "Fulltime",
+      "vacancy": "4",
+      "salary": "₹5 - ₹7 LPA",
+      "aboutCompany": "Aerocraft is bringing the power of data and algorithms with our highly qualified engineers to create digital solutions in the aviation and aerospace world.We are working to make your next flight better",
+      "description": "We are currently seeking a skilled and experienced candidate who has deep understanding of PHP programming language and able to work in both front-end and backend technologies.The major task to build,integrate and deploy industry-level features in our applications",
+      "responsibility": "Develop and maintain web applications using PHP.- Collaborate with cross-functional teams to identify and priortize software features- Write Clean,effiecient and well-documented code",
+      "qualifications": "Any Graduate,Any Postgraduate",
+      "experience": "2-8 years",
+      "skillsRequired": "PHP,Javascript,RDBMS: MySql,Data-structures: OOP,Knowledge of Laravel/Symphony/PHP framework is plus",
+      "contactInfo": {
+        "email": "admin@gmail.com",
+        "phone": "+91 98760 65423"
+      },
+      "postedAt": "2024-06-01T12:42:08.780Z"
+    },
+    {
+      "id": "2",
+      "logo": "https://th.bing.com/th?id=OIP.A5LJ8Q-QnkbBPvCSmmZTeAHaB3&w=349&h=88&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "name": "BharatX",
+      "title": "Frontend Developer",
+      "location": "Bengaluru",
+      "modeOfWork": "Remote",
+      "jobType": "Fulltime",
+      "vacancy": "1",
+      "salary": "₹5 - ₹7 LPA",
+      "aboutCompany": "BharatX is a VC Backed early stage FinTech startup that uses technology to empower the Indian Middle class withCredit.Approximately 110 Million Househols whose income is more than 5 LPA do not get access toFormal credit",
+      "description": "Own end-to-end devlopment and operations of high-performance web applications. Ensure coding patterns that enable quick development and iterations for UI/UX.On-time delivery of products and mechanism to measure improvements in incremental change",
+      "responsibility": "Own end-to-end devlopment and operations of high-performance web applications.- Ensure coding patterns that enable quick development and iterations for UI/UX- On-time delivery of products and mechanism to measure improvements in incremental change",
+      "qualifications": "Any Graduate, Any Postgraduate",
+      "experience": "0-5 years",
+      "skillsRequired": "WebUI, SidE, Frot end, Coding,Manager Technology, Architecting",
+      "contactInfo": {
+        "email": "aerocraftAviation@careers.com",
+        "phone": "+91 98760 65423"
+      },
+      "postedAt": "2024-06-01T12:42:08.780Z"
+    },
+    {
+      "id": "3",
+      "logo": "https://www.vhrpindia.com/images/logo.png",
+      "name": "VHR Professional Services",
+      "title": "Software Tester",
+      "location": "Canada",
+      "modeOfWork": "Remote",
+      "jobType": "Fulltime",
+      "vacancy": "12",
+      "salary": "₹35 - ₹45 LPA",
+      "aboutCompany": "Appreciate it if you could revert back with your interest level.In case you are interested kindly forward your updated profile in MS Word format along with details on your current CTC.",
+      "description": "",
+      "responsibility": "Create test plan/use case, requirements,scenarios and test data -Create QA report and bug list based on the outcome of QA test cycles-Provide feedback to developers based on test outcome.- Perform frontend testing using automation and manual testing.",
+      "qualifications": "BCA in Any Specialization, BSc in Any Specialization,Diploma in Any Specialization, B.Tech/B.E in Any Specialization",
+      "experience": "0-5 years",
+      "skillsRequired": "QA testing, Software Testing,Manual Testing,Test data, Automation Testing,IT",
+      "contactInfo": {
+        "email": "vhrprofessional@careers.com",
+        "phone": "+91 98760 65423"
+      },
+      "postedAt": "2024-06-01T12:42:08.780Z"
+    },
+    {
+      "id": "4",
+      "logo": "https://th.bing.com/th?id=ODLS.cc7dcd1f-5010-4361-9384-41ebf64b9b81&w=32&h=32&qlt=90&pcl=fffffa&o=6&p",
+      "name": "EduPlus Edutech",
+      "title": "Educational Content Developer",
+      "location": "Chennai",
+      "modeOfWork": "Remote",
+      "jobType": "Fulltime",
+      "vacancy": "2",
+      "salary": "₹6 - ₹9 LPA",
+      "aboutCompany": "EduPlus Edutech is a leading provider of educational content and services. Our mission is to empower educators and learners with high-quality resources and support.",
+      "description": "We are seeking an Educational Content Developer to create engaging and effective educational materials for K-12 subjects. The ideal candidate will have experience in curriculum development and instructional design.",
+      "responsibility": "Develop and edit educational content for online courses and textbooks",
+      "qualifications": "Bachelors degree in Education, English, or related field",
+      "experience": "2+ years",
+      "skillsRequired": "Curriculum Development, Instructional Design, Content Editing",
+      "contactInfo": {
+        "email": "careers@eduplusedutech.com",
+        "phone": "+91 54321 09876"
+      },
+      "postedAt": "2024-06-01T12:42:08.780Z"
+    },
+    {
+      "id": "5",
+      "logo": "https://th.bing.com/th?id=OIP.j_frNQY7Hs6Rgtk-Su0vMgHaD4&w=345&h=180&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "name": "DataTech Solutions",
+      "title": "Data Engineer",
+      "location": "Hyderabad",
+      "modeOfWork": "On-site",
+      "jobType": "Fulltime",
+      "vacancy": "2",
+      "salary": "₹11 - ₹12 LPA",
+      "aboutCompany": "DataTech Solutions specializes in providing data engineering and analytics services to businesses. Our team leverages advanced technologies and methodologies to turn data into actionable insights.",
+      "description": "We are looking for a Data Engineer to join our team. The ideal candidate will have experience in data integration, data modeling, and data warehousing.",
+      "responsibility": "Design and develop data pipelines for data processing and analysis",
+      "qualifications": "Bachelors degree in Computer Science, Statistics, or related field",
+      "experience": "3-6 years",
+      "skillsRequired": "Data Integration, ETL Tools (e.g., Apache NiFi, Talend), SQL, Python",
+      "contactInfo": {
+        "email": "careers@datatechsolutions.in",
+        "phone": "+91 65432 10987"
+      },
+      "postedAt": "2024-06-01T12:42:08.780Z"
+    },
+    {
+      "id": "6",
+      "logo": "https://th.bing.com/th?id=OIP.PzGn9yoEb36uVrD35wlaLgHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "name": "GreenTech Innovations",
+      "title": "Environmental Engineer",
+      "location": "New Delhi",
+      "modeOfWork": "Remote",
+      "jobType": "Internship",
+      "vacancy": "1",
+      "salary": "₹2 - ₹3 LPA",
+      "aboutCompany": "GreenTech Innovations is dedicated to developing sustainable solutions for environmental challenges. Our team of engineers and scientists works on projects ranging from renewable energy to waste management.",
+      "description": "We are seeking an Environmental Engineer to join our team. The ideal candidate will have experience in environmental engineering and a passion for sustainability.",
+      "responsibility": "Design and implement environmental engineering projects",
+      "qualifications": "Bachelors degree in Environmental Engineering or related field",
+      "experience": "0-1 year",
+      "skillsRequired": "Environmental Engineering, Sustainability, Project Management",
+      "contactInfo": {
+        "email": "careers@greentechinnovations.com",
+        "phone": "+91 76543 21098"
+      },
+      "postedAt": "2024-06-20T12:42:08.780Z"
+    },
+    {
+      "id": "7",
+      "logo": "https://th.bing.com/th?id=OIP.PA8OdwVhtDtJ01hXbd74NQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "name": "MediServe Technologies",
+      "title": "Healthcare IT Specialist",
+      "location": "Bengaluru",
+      "modeOfWork": "Hybrid",
+      "jobType": "Fulltime",
+      "vacancy": "2",
+      "salary": "₹10 - ₹14 LPA",
+      "aboutCompany": "MediServe Technologies specializes in providing innovative IT solutions for the healthcare industry. Our mission is to improve patient care and operational efficiency through technology.",
+      "description": "We are looking for a Healthcare IT Specialist to support the implementation and maintenance of our healthcare software systems. The ideal candidate will have experience in healthcare IT and electronic medical records (EMR).",
+      "responsibility": "Provide technical support for healthcare software applications",
+      "qualifications": "Bachelors degree in Computer Science, Healthcare Informatics, or related field",
+      "experience": "5-8 years",
+      "skillsRequired": "Healthcare IT Systems, Electronic Medical Records (EMR), HL7, SQL",
+      "contactInfo": {
+        "email": "careers@mediservetech.com",
+        "phone": "+91 87654 32109"
+      },
+      "postedAt": "2024-06-20T12:42:08.780Z"
+    },
+    {
+      "id": "8",
+      "logo": "https://th.bing.com/th?id=OIP.rpKYjCPX-5kVPCN-02GvogHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2",
+      "name": "CodeCrafters Academy",
+      "title": "Junior Web Developer",
+      "location": "Hyderabad",
+      "modeOfWork": "Remote",
+      "jobType": "Fulltime",
+      "vacancy": "3",
+      "salary": "₹2.8 - ₹3.6 LPA",
+      "aboutCompany": "CodeCrafters Academy is a premier coding bootcamp dedicated to training aspiring web developers. We provide comprehensive training programs and mentorship to help individuals launch their careers in tech.",
+      "description": "We are seeking Junior Web Developers to join our team. This role is suitable for freshers who have a passion for web development and a willingness to learn.",
+      "responsibility": "Assist in building and maintaining web applications",
+      "qualifications": "Bachelors degree in Computer Science, Information Technology, or related field",
+      "experience": "0-1 year",
+      "skillsRequired": "Basic understanding of HTML, CSS, JavaScript",
+      "contactInfo": {
+        "email": "careers@codecraftersacademy.com",
+        "phone": "+91 76543 21098"
+      },
+      "postedAt": "2024-06-20T12:42:08.780Z"
+    },
+    {
+      "id": "9",
+      "logo": "https://th.bing.com/th?id=ODLS.857a4f7a-27bd-4056-9309-8ffe8931607c&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+      "name": "Capgemini",
+      "title": "Software Engineer",
+      "location": "Mumbai",
+      "modeOfWork": "Hybrid",
+      "jobType": "Fulltime",
+      "vacancy": "5",
+      "salary": "₹6 - ₹9 LPA",
+      "aboutCompany": "Capgemini is a global leader in consulting, digital transformation, technology, and engineering services. We are at the forefront of innovation, helping clients in over 40 countries to address their most complex challenges.",
+      "description": "We are looking for Software Engineers to join our dynamic team. The ideal candidates will have strong technical skills and a passion for technology.",
+      "responsibility": "Design, develop, and maintain software applications",
+      "qualifications": "Bachelors degree in Computer Science, Engineering, or related field",
+      "experience": "0-3 years",
+      "skillsRequired": "Programming languages (e.g., Java, Python, C++), Software Development Lifecycle (SDLC), Agile methodologies",
+      "contactInfo": {
+        "email": "careers@capgemini.com",
+        "phone": "+91 98765 43210"
+      },
+      "postedAt": "2024-06-20T12:42:08.780Z"
+    },
+    {
+      "id": "10",
+      "logo": "https://th.bing.com/th?id=ODLS.570960d1-80e2-423f-b8b0-d409c6559c14&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2",
+      "name": "Accenture",
+      "title": "Associate Software Engineer",
+      "location": "Hyderabad",
+      "modeOfWork": "Remote",
+      "jobType": "Fulltime",
+      "vacancy": "4",
+      "salary": "₹5 - ₹8 LPA",
+      "aboutCompany": "Accenture is a leading global professional services company, providing a broad range of services in strategy, consulting, digital, technology, and operations. We work at the intersection of business and technology to help clients improve performance and create value.",
+      "description": "We are looking for Associate Software Engineers to join our team. This role offers opportunities to work on exciting projects and develop technical skills.",
+      "responsibility": "Develop and test software applications",
+      "qualifications": "Bachelors degree in Computer Science, Engineering, or related field",
+      "experience": "0-2 years",
+      "skillsRequired": "Programming languages (e.g., Java, Python, C#), Software Development Lifecycle (SDLC), Problem-solving skills",
+      "contactInfo": {
+        "email": "careers@accenture.com",
+        "phone": "+91 76543 21098"
+      },
+      "postedAt": "2024-06-20T12:42:08.780Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "d592",
+      "basicDetails": {
+        "profilePhoto": {},
+        "fullname": "Riki",
+        "gender": "Female",
+        "email": "riki@gmail.com",
+        "address": "2258,shettikere,durgakeri,honnavara",
+        "city": "Honnavar",
+        "state": "Karnataka",
+        "mobileNumber": "0843195526",
+        "previewUrl": "blob:http://localhost:3000/e94d2a6b-5157-4579-a685-9fc5f7a6fb19"
+      },
+      "educationDetails": {
+        "coursename": "B.Tech/B.E",
+        "specialization": "Information Science and Engineering",
+        "collegename": "Dayananda Sagar College of Engineering",
+        "cgpa": "9",
+        "previewUrl": null
+      },
+      "skills": {
+        "skills": "C, Java, C#, React",
+        "previewUrl": null
+      },
+      "projects": {
+        "projectname": "",
+        "projectdetails": "",
+        "projectskills": "",
+        "projecturl": ""
+      },
+      "certifications": {
+        "certificationname": "",
+        "certificateurl": "",
+        "certificatefile": null,
+        "certificateFileName": "",
+        "certificatePreviewUrl": null
+      },
+      "experience": {
+        "companyname": "",
+        "designation": "",
+        "totalExperienceMonths": "",
+        "totalExperienceYears": "",
+        "workdescription": "",
+        "typeofexperience": ""
+      },
+      "resume": {
+        "resumeFile": {},
+        "resumeFileName": "Riki_Naik_Resume.pdf",
+        "resumePreviewUrl": "blob:http://localhost:3000/fdaa431a-47db-4a78-9930-603474b94f0b"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "ad51",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "Admin@123",
+      "role": "admin"
+    },
+    {
+      "id": "06a6",
+      "name": "Riki",
+      "email": "riki@gmail.com",
+      "password": "Riki@123",
+      "role": "user"
+    }
+  ]
+}

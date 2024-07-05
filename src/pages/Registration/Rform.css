@@ -1,0 +1,143 @@
+/* Rform.css */
+.reg-form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height:115vh;
+  }
+  
+  .registration-form {
+    width: 600px; 
+    padding: 30px 50px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  
+  .registration-form h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: green;
+  }
+  
+  .registration-messages {
+    margin-bottom: 20px;
+  }
+  
+  .registration-success,
+  .registration-error,
+  .registration-password-error,
+  .registration-confirm-password-error {
+    color: #fff;
+  
+    text-align: center;
+  }
+  
+  .registration-success {
+    background-color: #28a745;
+  }
+  
+  .registration-error,
+  .registration-password-error,
+  .registration-confirm-password-error {
+    color: #dc3545;
+  
+  }
+  .registration-password-error p,
+  .registration-confirm-password-error{
+  font-size: medium;
+  }
+  .registration-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .registration-form .registration-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  .registration-form .registration-input::placeholder {
+    color: #999;
+  }
+  
+  .registration-form .registration-bt {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .registration-form .registration-bt:hover {
+    background-color: #0056b3;
+    /* color: #dc3545; */
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .registration-form {
+      max-width: 100%; /* Make the form take up more width on smaller screens */
+      padding: 20px 30px;
+    }
+  
+    .registration-form h1 {
+      font-size: 24px;
+    }
+  
+    .registration-form label {
+      font-size: 14px;
+    }
+  
+    .registration-form .registration-input {
+      font-size: 14px;
+    }
+  
+    .registration-form .registration-bt {
+      font-size: 14px;
+      padding: 8px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .registration-form {
+      max-width: 100%; /* Make the form take up more width on smaller screens */
+      padding: 15px 20px;
+    }
+  
+    .registration-form h1 {
+      font-size: 20px;
+    }
+  
+    .registration-form label {
+      font-size: 12px;
+    }
+  
+    .registration-form .registration-input {
+      font-size: 12px;
+    }
+  
+    .registration-form .registration-bt {
+      font-size: 12px;
+      padding: 6px;
+    }
+  
+  }
+  

@@ -1,0 +1,62 @@
+.job-post-container {
+    max-width: 1100px;
+    margin: auto;
+    padding-top: 30px;
+    padding-left: 250px;
+    overflow-y: auto;
+  }
+   
+  .form {
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    padding: 20px;
+    overflow-y: auto; /* Enable scrolling within the form */
+    max-height: calc(100vh - 100px); 
+  }
+   
+  .form-control {
+    width: 100%;
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+   
+  .form-floating {
+    margin-bottom: 1rem;
+  }
+   
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+   
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+   
+  @media (max-width: 768px) {
+    .job-post-container {
+      padding: 10px;
+    }
+  }
+   
+  @media (max-width: 576px) {
+    .form-control {
+      font-size: 0.9rem;
+    }
+  }
+   
+  @media (max-width: 400px) {
+    .form-control {
+      font-size: 0.8rem;
+    }
+  }
+   
+  

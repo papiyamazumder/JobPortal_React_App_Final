@@ -1,0 +1,55 @@
+{
+    "profiles":[
+        {
+            "id": "d592",
+            "basicDetails": {
+              "profilePhoto": {},
+              "fullname": "Riki",
+              "gender": "Female",
+              "email": "riki@gmail.com",
+              "address": "2258,shettikere,durgakeri,honnavara",
+              "city": "Honnavar",
+              "state": "Karnataka",
+              "mobileNumber": "0843195526",
+              "previewUrl": "blob:http://localhost:3000/be040f95-edf7-4363-9a79-88061ac23fe8"
+            },
+            "educationDetails": {
+              "coursename": "B.Tech/B.E",
+              "specialization": "Information Science and Engineering",
+              "collegename": "Dayananda Sagar College of Engineering",
+              "cgpa": "9",
+              "previewUrl": null
+            },
+            "skills": {
+              "skills": "C, Java, C#, React",
+              "previewUrl": null
+            },
+            "projects": {
+              "projectname": "",
+              "projectdetails": "",
+              "projectskills": "",
+              "projecturl": ""
+            },
+            "certifications": {
+              "certificationname": "",
+              "certificateurl": "",
+              "certificatefile": null,
+              "certificateFileName": "",
+              "certificatePreviewUrl": null
+            },
+            "experience": {
+              "companyname": "",
+              "designation": "",
+              "totalExperienceMonths": "",
+              "totalExperienceYears": "",
+              "workdescription": "",
+              "typeofexperience": ""
+            },
+            "resume": {
+              "resumeFile": {},
+              "resumeFileName": "Riki_Naik_Resume.pdf",
+              "resumePreviewUrl": "blob:http://localhost:3000/d557850e-b06a-4033-9537-9479993b352b"
+            }
+          }
+    ]
+}

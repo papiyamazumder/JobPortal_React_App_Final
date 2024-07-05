@@ -1,0 +1,119 @@
+/* Login.css */
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 91vh;
+}
+
+.login-card {
+  display: flex;
+  width: 800px; /* Increased card width */
+  max-width: 90%;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.login-gif {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-gif img {
+  max-width: 100%;
+  height: auto;
+}
+
+.login-form {
+  flex: 1;
+  padding-left: 40px; /* Increased space between GIF and form */
+}
+
+.login-form h2 {
+  margin-bottom: 20px;
+  font-size: 28px; /* Increased font size */
+  color: #4caf50; /* Green color */
+  text-align: center; /* Center align text */
+  font-weight: bold; /* Make the title bold */
+}
+
+.login-error-alert {
+  color: #ff4d4f;
+  margin-bottom: 20px; /* Increased margin */
+}
+
+.login-form-group {
+  margin-bottom: 24px; /* Increased margin */
+}
+
+.login-form-group label {
+  margin-bottom: 8px; /* Increased margin */
+  font-size: 18px; /* Increased font size */
+  color: #555555;
+}
+
+.login-form-group input {
+  width: 100%;
+  padding: 12px; /* Increased padding */
+  border: 1px solid #ddd;
+  border-radius: 6px; /* Increased border radius */
+  font-size: 18px; /* Increased font size */
+}
+
+.login-button {
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 10px 20px; /* Smaller padding for the button */
+  border: none;
+  border-radius: 6px; /* Increased border radius */
+  font-size: 17px; /* Decreased font size */
+  cursor: pointer;
+  transition: background-color 0.3s;
+  display: block; /* Ensures button is centered */
+  margin: 0 auto; /* Centers the button */
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+.login-signup-link{
+  cursor: pointer;
+  font-weight: bold; 
+  color: #1890ff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.login-signup {
+  margin-top: 24px; /* Increased margin */
+  font-size: 18px; /* Increased font size */
+  color: #555555;
+  text-align: center; /* Center align text */
+}
+
+.login-signup a:hover {
+  color: #40a9ff;
+}
+
+.login-roles{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-role{
+  text-align: center;
+  background-color: #1890ff;
+  color:  white;
+  font-size:22px;
+  padding: 10px;
+  margin: 10px 45px;
+  border-radius:  10px 10px 10px 10px;
+}

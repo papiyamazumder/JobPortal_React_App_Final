@@ -1,0 +1,47 @@
+.admin-sidebar {
+  position:fixed;
+  top: 0;
+  left: 0;
+  margin-top: 4.5%;
+  height: 100%;
+  width: 250px; /* Adjust width as needed */
+  background: linear-gradient(115deg, #004ff9, #000000); /* Gradient background */
+  color: white;
+}
+
+.admin-sidebar.open {
+  transform: translateX(0);
+  transition: transform 0.3s ease-in-out;
+}
+
+.admin-sidebar-header {
+  padding: 16px;
+  background-color: #333; /* Fallback color */
+  background:  #0d05ad; /* Gradient background */
+  color: white; /* White text */
+}
+
+.admin-sidebar-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.admin-sidebar-item {
+  display: flex;
+  align-items: center;
+  padding: 12px;
+  cursor: pointer;
+}
+
+.admin-sidebar-item:hover {
+  background-color: #07284a;
+}
+
+.admin-sidebar-icon {
+  margin-right: 12px;
+}
+
+.admin-sidebar-text {
+  font-size: 16px;
+}

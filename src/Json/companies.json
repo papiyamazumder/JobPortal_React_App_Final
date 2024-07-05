@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Capgemini",
+      "logo": "techcorp_logo.png",
+      "description": "TechCorp is a leading technology company specializing in innovative solutions."
+    },
+    {
+      "id": 2,
+      "name": "Google",
+      "logo": "marketgurus_logo.png",
+      "description": "MarketGurus is a top marketing firm known for its innovative strategies."
+    },
+    {
+      "id": 3,
+      "name": "Microsoft",
+      "logo": "datatech_logo.png",
+      "description": "DataTech Solutions provides cutting-edge data analytics services globally."
+    },
+    {
+      "id": 4,
+      "name": "Amazon",
+      "logo": "healthcare_logo.png",
+      "description": "HealthCare Innovations is dedicated to improving healthcare through technology."
+    },
+    {
+      "id": 5,
+      "name": "Reliance Ind.",
+      "logo": "financeexperts_logo.png",
+      "description": "FinanceExperts Ltd. offers comprehensive financial consulting services."
+    },    {
+      "id": 6,
+      "name": "Airtel",
+      "logo": "financeexperts_logo.png",
+      "description": "FinanceExperts Ltd. offers comprehensive financial consulting services."
+    },    {
+      "id": 7,
+      "name": "Bread Financial",
+      "logo": "financeexperts_logo.png",
+      "description": "FinanceExperts Ltd. offers comprehensive financial consulting services."
+    }
+  ]
+  
